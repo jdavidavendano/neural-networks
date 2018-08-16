@@ -7,4 +7,4 @@ Universidad Nacional de Colombia, Sede Medellín
 Facultad de Minas  
 Medellín, Colombia  
 
-[Licencia](https://github.com/jdvelasq/fundamentos-de-analitica/blob/master/LICENSE)
+[Licencia](https://github.com/jdvelasq/neural-networks/blob/master/LICENSE)
